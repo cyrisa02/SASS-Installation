@@ -14,3 +14,5 @@ installer sur vscode l'extension "Live SASS compiler"
 Créer un fichier style.scss, écrire son code, puis cliquer sur Watching en bas de VSCODE, les deux fichiers css se compileront.
 
 Utiliser les variables, les mixins (fonction avec des conditions des boucles)
+
+Tous les fichiers se trouvent en local sur 1Studiexercices
